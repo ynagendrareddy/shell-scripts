@@ -1,4 +1,5 @@
 echo "hello world"
+echo "good evening"
 echo $#
 echo $0
 echo $1
